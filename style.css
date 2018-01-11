@@ -7,7 +7,7 @@ h1 {
   text-align: center;
   color: white;
 }
-download {
+.download {
   color: Aquamarine;
   font-size: 16px;
   text-align: center;
@@ -20,5 +20,18 @@ h2 {
   font-weight: 300;
   font-size: 42px;
   color: white;
+  text-align: center;
+}
+.excursion {
+  text-align: right;
+  color: Gray;
+}
+.video {
+  text-align: center;
+}
+.phone {
+  text-align: center;
+}
+.camp {
   text-align: center;
 }
